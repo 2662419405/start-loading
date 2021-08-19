@@ -1,0 +1,27 @@
+{
+  "name": "start-loading",
+  "version": "0.1.0",
+  "description": "全局Loading封装Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2662419405/start-loading.git"
+  },
+  "keywords": [
+    "loading",
+    "react",
+    "promise"
+  ],
+  "author": "sunhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2662419405/start-loading/issues"
+  },
+  "homepage": "https://github.com/2662419405/start-loading#readme",
+  "devDependencies": {
+    "@types/node": "^16.6.2"
+  }
+}
